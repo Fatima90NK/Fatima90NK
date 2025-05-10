@@ -6,7 +6,7 @@
 ### 🧠 About Me
 - 🎓 Full Stack Developer
 - 💼 Ex-Amazon | Risk & Compliance | Data Analytics & QA auditing experience
-- 🌍 Dutchie 🇳🇱 Based in Catalonia
+- 🌍 Dutchie 🇳🇱 Based in Spain 
 - 💡 Passionate about building neurodivergent-friendly and accessible software
 - 🔭 Currently diving into **Machine Learning**, **Python**, and **C++**
 
