@@ -9,7 +9,7 @@
 - 💼 Ex-Amazon | Risk & Compliance | Data Analytics & QA auditing experience
 - 🌍 Dutchie 🇳🇱 Based in Spain 
 - 💡 Passionate about building neurodivergent-friendly and accessible software
-- 🔭 Currently diving into **Machine Learning**, **Python**, and **C++**
+- 🔭 Currently diving into **Machine Learning** and **C++**
 
 ### 🛠️ Tech Stack
 <p>
