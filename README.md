@@ -6,30 +6,26 @@
 ### About Me
 🌼 I am Fatima <i>aka</i> Nuri <br>
 🎓 Full Stack Developer, specialised in DevOps, Machine Learning and Cloud Infrastructure <br>
-💼 Ex-Amazon | InfoSec | Data Analytics | Quality Assurance  <br>
+💼 Former-Amazonian with background in InfoSec | AWS | Data Analytics | Quality Assurance  <br>
 🌍 Dutchie 🇳🇱 Based in Spain <br>
-💡 Passionate about building neurodivergent-friendly and accessible software <br>
-🔭 Currently diving into **Machine Learning** and **C++** <br>
+💡 Passionate life-long learner, committed to sharpening my skills and mastering my craft. <br>
+🔭 Currently diving into **Machine Learning**, **MongoDB**, **.Net** and **#C** <br>
 
 ### 🛠️ Tech Stack
 <p>
 
-**Programming Languages**
+**Programming Languages/Libraries/Frameworks**
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Frontend**
 - ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=for-the-badge&logo=css3&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-**Backend**
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 
 **Databases**
